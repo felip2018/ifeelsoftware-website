@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+#navBar {
+    background-color: #3F51B5;
+    color: #FFFFFF;
+    padding: 10px 0px 10px 0px;
+}
+
+#navBar ul li {
+    list-style: none;
+    float: right;
+}
+
+#navBar ul li a{
+    color: #FFFFFF;
+    margin: 10px;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+#navBar ul li a:hover{
+    background-color: #03A9F4;
+
+}
