@@ -35,9 +35,7 @@ body{
 
 .home{
     border:1px solid red;
-    height: 700px;
-    background-image: url('../img/fondo_1.jpg');
-    background-size: 100% 100%;
+    height: auto;
     color: #FFFFFF;
 }
 
